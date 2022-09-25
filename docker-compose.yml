@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  web:
+    ports:
+      - 4000:8000
+    image: shape/shape-api:latest
