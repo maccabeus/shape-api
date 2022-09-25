@@ -1,8 +1,0 @@
-GET http://127.0.0.1:8000/circle/22
-content-type: application/json
-
-{
-  "": "Pumping Machine",
-  "user-id": 33,
-  "product-id": 44
- }

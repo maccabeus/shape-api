@@ -35,6 +35,14 @@ make docker
 
 To run the application server, you can use any of the two commands below. You can use `docker-compose` commands o `docker run` command directly. Note that the app by default will be available at `http://localhost:8000`
 
+### Running app Directly
+
+To serve and view in the `browser`, directly, use the following command:
+
+```bash
+make serve && make open
+```
+
 ### Running docker Directly
 
 To run docker directly, use the following command:
